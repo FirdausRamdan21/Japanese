@@ -124,10 +124,9 @@ var ACTIVITIES = {
    ════════════════════════════════════════ */
 var GROUPS = [
   { id: "A", name: "Pembelajaran"     },
-  { id: "B", name: "Lomba & Kompetisi"},
-  { id: "C", name: "Quiz & Games"     },
-  { id: "D", name: "Kenangan & Momen" },
-  {id: "E", name: "Materi hiragana"}
+  { id: "A", name: "Lomba & Kompetisi"},
+  { id: "A", name: "Quiz & Games"     },
+  { id: "A", name: "Kenangan & Momen" }
 ];
 
 var GALLERY = [
@@ -174,6 +173,14 @@ var GALLERY = [
   desc: "Dokumentasi test", 
   group: "B" 
   },
+
+  { 
+  img: GD("18Uflk8CPxrcw_Dx5zUJZ6j127Nlu0E_v", "w600"), 
+  title: "test", 
+  desc: "Dokumentasi test", 
+  group: "B" 
+  },
+
    { 
   img: GD("1_xOKhSy--baq3BpwE6i9oDnidxgetY2W", "w600"), 
   title: "Latihan Demos", 
