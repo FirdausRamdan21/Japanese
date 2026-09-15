@@ -124,9 +124,9 @@ var ACTIVITIES = {
    ════════════════════════════════════════ */
 var GROUPS = [
   { id: "A", name: "Pembelajaran"     },
-  { id: "A", name: "Lomba & Kompetisi"},
-  { id: "A", name: "Quiz & Games"     },
-  { id: "A", name: "Kenangan & Momen" }
+  { id: "B", name: "Lomba & Kompetisi"},
+  { id: "C", name: "Quiz & Games"     },
+  { id: "D", name: "Kenangan & Momen" }
 ];
 
 var GALLERY = [
