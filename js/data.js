@@ -196,6 +196,13 @@ var GALLERY = [
     group: "A" 
   },
 
+   { 
+    img: GD("1Qlv75S-t8c26oVOi9zuyE8-refrYgmNi", "w600"), 
+    title: "Suasana Belajar Mengajar", 
+    desc: "Potret kegiatan belajar mengajar di kelas saat anggota mengikuti materi dengan fokus dan antusias. Dokumentasi ini mencerminkan lingkungan belajar yang aktif, disiplin, dan penuh semangat.", 
+    group: "A" 
+  },
+
   { 
     img: GD("1w8LtZr4uwre07dezVl_d8Jb4C6ZH6wDb", "w600"), 
     title: "Kenangan Bersama Han Sensei", 
