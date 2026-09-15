@@ -159,6 +159,20 @@ var GALLERY = [
   desc: "Dokumentasi area lobby pada kegiatan Harumatsuri 2024 yang berfungsi sebagai tempat penerimaan tamu, registrasi peserta, serta pusat aktivitas awal sebelum memasuki rangkaian acara lomba dan pertunjukan.", 
   group: "B" 
   },
+
+  { 
+  img: GD("1NSdbwZ6HWgK0OYtVASqXscBtC6xrShWS", "w600"), 
+  title: "test", 
+  desc: "Dokumentasi test", 
+  group: "B" 
+  },
+
+  { 
+  img: GD("18Uflk8CPxrcw_Dx5zUJZ6j127Nlu0E_v", "w600"), 
+  title: "test", 
+  desc: "Dokumentasi test", 
+  group: "B" 
+  },
    { 
   img: GD("1_xOKhSy--baq3BpwE6i9oDnidxgetY2W", "w600"), 
   title: "Latihan Demos", 
