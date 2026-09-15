@@ -126,7 +126,8 @@ var GROUPS = [
   { id: "A", name: "Pembelajaran"     },
   { id: "B", name: "Lomba & Kompetisi"},
   { id: "C", name: "Quiz & Games"     },
-  { id: "D", name: "Kenangan & Momen" }
+  { id: "D", name: "Kenangan & Momen" },
+  {id: "E", name: "Materi hiragana"}
 ];
 
 var GALLERY = [
