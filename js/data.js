@@ -160,19 +160,13 @@ var GALLERY = [
   group: "B" 
   },
 
-  { 
-  img: GD("1NSdbwZ6HWgK0OYtVASqXscBtC6xrShWS", "w600"), 
-  title: "test", 
-  desc: "Dokumentasi test", 
-  group: "B" 
+  {
+  img: GD("1NSdbwZ6HWgK0OYtVASqXscBtC6xrShWS", "w600"),
+  title: "Lomba Kanji Kompetisi di UI",
+  desc: "Dokumentasi area dalam Aula Gedung Fakultas Budaya pada kegiatan UI Nihon Fair 2026 yang berfungsi sebagai lokasi perlombaan kanji, tempat peserta menunjukkan kemampuan membaca dan menulis kanji, serta ajang penyerahan penghargaan juara 3 kepada Muhammad Fariz Dermawan.",
+  group: "B"
   },
 
-  { 
-  img: GD("18Uflk8CPxrcw_Dx5zUJZ6j127Nlu0E_v", "w600"), 
-  title: "test", 
-  desc: "Dokumentasi test", 
-  group: "B" 
-  },
 
   { 
   img: GD("18Uflk8CPxrcw_Dx5zUJZ6j127Nlu0E_v", "w600"), 
